@@ -7,17 +7,17 @@ spec:
         description: 支持可预设文本的友链
         screenshot: 
         file: page_links.html
-  displayName: Sakura
+  displayName: Sakura-fix
   author:
-    name: LIlGG
+    name: LIlGG&Be
     website: https://lixingyong.com
   description: Halo 2.x 版本樱花🌸主题
   logo: /themes/theme-sakura/assets/images/search/iloli.gif
-  website: https://github.com/LIlGG/halo-theme-sakura
-  repo: https://github.com/LIlGG/halo-theme-sakura.git
+  website: none
+  repo: none
   settingName: theme-sakura-setting
   configMapName: theme-sakura-configMap
-  version: 2.0.0
+  version: 2.0.1
   require: ">=2.11.0"
 metadata:
-  name: theme-sakura
+  name: theme-sakura-fix
