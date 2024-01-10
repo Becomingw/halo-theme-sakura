@@ -9,10 +9,10 @@ spec:
         file: page_links.html
   displayName: Sakura-fix
   author:
-    name: LIlGG&Be
+    name: LIlGG
     website: https://lixingyong.com
   description: Halo 2.x 版本樱花🌸主题
-  logo: /themes/theme-sakura/assets/images/search/iloli.gif
+  logo: https://s2.loli.net/2022/10/23/ubTVMErkvGN8ogO.jpg
   website: none
   repo: none
   settingName: theme-sakura-setting
