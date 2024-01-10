@@ -13,8 +13,8 @@ spec:
     website: https://lixingyong.com
   description: Halo 2.x 版本樱花🌸主题
   logo: https://s2.loli.net/2022/10/23/ubTVMErkvGN8ogO.jpg
-  website: none
-  repo: none
+  website: https://blog.becomingw.cn
+  repo: https://github.com/Becomingw/halo-theme-sakura.git
   settingName: theme-sakura-setting
   configMapName: theme-sakura-configMap
   version: 2.0.1
